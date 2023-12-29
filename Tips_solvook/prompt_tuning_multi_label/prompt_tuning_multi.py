@@ -186,7 +186,7 @@ if __name__ == '__main__':
     arg = parser.parse_args(args=[])
 
     # setting default arg
-    arg.token = "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"
+    arg.token = ""
     arg.pretrained_model_name = "bigscience/bloomz-560m"
     arg.train_file = 'solvook_handout_tr.csv'
     arg.eval_file = 'solvook_handout_val.csv'

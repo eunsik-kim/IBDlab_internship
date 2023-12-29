@@ -26,7 +26,7 @@ $container_name \
             pip install transformers tensorflow accelerate wandb datasets scipy scikit-learn openpyxl seaborn flax && \
             export TF_ENABLE_ONEDNN_OPTS=0 && \
             cd /home2/eunsik12/lab/KIHASA/02_code && \
-            wandb login --relogin "96e213bec6e0b2c89e5254f9b8ab09d6270c24b3" && \
+            wandb login --relogin "" && \
             python train_prompt.py --data_dir ../03_model/mentalbertavg_prompt20 --data_type eng --avg_mode --n_tokens 20'
 enroot remove --force $(enroot list)
 
