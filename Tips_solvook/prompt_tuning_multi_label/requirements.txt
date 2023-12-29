@@ -1,0 +1,9 @@
+transformers
+peft
+tensorflow
+accelerate
+wandb
+datasets
+scipy
+scikit-learn
+openpyxl

@@ -1,0 +1,7 @@
+##### data
+##### [ver2]2021년 정신건강실태조사 마이크로데이터 코드북: 원본 질문 데이터
+##### NMHSK2021_2210: 설문조사 데이터(분석에 사용한 데이터)
+##### question-answer-after.xlsx: 원본 질문 데이터 전처리 후 데이터(분석에 사용한 데이터)
+##### question-answer-after-fixed.xlsx: 일부 설문 문항의 단어 수정 데이터
+##### question-answer-after-fixed-translated.xlsx: 영문 번역
+##### question-answer_reconsturction.csv: 질문-답 형태 변형 
