@@ -164,3 +164,14 @@ cython_debug/
 *.xlsx
 *.pt
 *.json
+
+minwon_chatbot/llama2_with_mk3/model-00001-of-00002.safetensors
+minwon_chatbot/llama2_RAG_hackerton_mk3/checkpoint-1000/adapter_model.safetensors
+minwon_chatbot/llama2_RAG_hackerton_mk3/checkpoint-1100/adapter_model.safetensors
+minwon_chatbot/llama2_RAG_hackerton_mk3/checkpoint-1200/adapter_model.safetensors
+
+minwon_chatbot/chroma_db/chroma.sqlite3
+minwon_chatbot/chroma_db/9d9e242c-4fb6-4577-b802-7d269fb207d6/data_level0.bin
+minwon_chatbot/Sbert/질문_업무_db.csv
+minwon_chatbot/Sbert/ver1/pytorch_model.bin
+minwon_chatbot/Sbert/MNR_loss/model.safetensors
