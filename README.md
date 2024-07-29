@@ -1,10 +1,10 @@
 ### 시립대학교 [IDB Lab](https://intelligent-big-data-lab.notion.site) 인턴
 
 ---
-요약: 자연어 데이터 분석 업무, 민원 응답 챗봇으로 [해커톤 2등 수상](https://kdatascience.kr/conference/event)
-기간: 2023.06.01 ~ 2023.12.31
-업무: 영어 교재 언어 모델, 설문조사 분류, 민원 응대 챗봇
----
+요약: 자연어 데이터 분석 업무, 민원 응답 챗봇으로 [해커톤 2등 수상](https://kdatascience.kr/conference/event)  
+
+기간: 2023.06.01 ~ 2023.12.31  
+
 
 ### [영어 교재 언어 모델](https://github.com/eunsik-kim/IBDlab_internship/tree/main/survey_classification)
 
