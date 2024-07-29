@@ -1,10 +1,7 @@
-### 시립대학교 [IDB Lab](https://intelligent-big-data-lab.notion.site) 인턴
+### 시립대학교 [IDB Lab](https://intelligent-big-data-lab.notion.site) 
 
 ---
-요약: 자연어 데이터 분석 업무, 민원 응답 챗봇으로 [해커톤 2등 수상](https://kdatascience.kr/conference/event)  
-
-기간: 2023.06.01 ~ 2023.12.31  
-
+2023.06.01 ~ 2023.12.31 기간의 인턴 업무 기록입니다.
 
 ### [영어 교재 언어 모델](https://github.com/eunsik-kim/IBDlab_internship/tree/main/survey_classification)
 
@@ -25,7 +22,7 @@
 
 ### 민원 응대 챗봇
 
-- 해커톤 참가 준비 포함 약 10일 (2023.11.20 ~ 2023.11.30)
+- [해커톤](https://kdatascience.kr/conference/event) 참가 준비 포함 약 10일 (2023.11.20 ~ 2023.11.30)
 - 민원 응대를 위해 기존에 학습된 챗봇에 RAG(Retrieval-Augmented Generation) 기법을 적용하여 응답 성능 향상 시도
     - 민원 처리 부서 데이터와 민원 질문 간의 관계를 추출하기 위한 [모델을 학습시킴](https://huggingface.co/marigold334/KR-SBERT-V40K-klueNLI-augSTS-ft)
     - 민원 질문 분류를 위해 XGBoost 모델을 사용
