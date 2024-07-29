@@ -14,7 +14,7 @@
 
 ### [설문조사 분류](https://github.com/eunsik-kim/IBDlab_internship/tree/main/survey_classification)
 
-- 약 2달(2023.10.01 ~ 2023.11.31)
+- 약 6주(2023.10.16 ~ 2023.11.31)
 - 설문조사 응답 데이터를 언어 모델에 적용해보려는 연구 과제
     - BERT, SentenceTransformer, MentalBERT 모델을 사용하여 설문 결과를 예측(분류 성능으로 평가)
     - 모델 학습 후 설문조사 질문별로 언어 모델 예측치에 영향을 주는 기여도 분석(Top-N 비교, t-SNE 작성)
@@ -24,6 +24,6 @@
 
 - [해커톤](https://kdatascience.kr/conference/event) 참가 준비 포함 약 10일 (2023.11.20 ~ 2023.11.30)
 - 민원 응대를 위해 기존에 학습된 챗봇에 RAG(Retrieval-Augmented Generation) 기법을 적용하여 응답 성능 향상 시도
-    - 민원 처리 부서 데이터와 민원 질문 간의 관계를 추출하기 위한 [모델을 학습시킴](https://huggingface.co/marigold334/KR-SBERT-V40K-klueNLI-augSTS-ft)
+    - 민원 처리 부서 데이터와 민원 질문 간의 관계를 추출하기 위한 [모델](https://huggingface.co/marigold334/KR-SBERT-V40K-klueNLI-augSTS-ft)을 학습시킴
     - 민원 질문 분류를 위해 XGBoost 모델을 사용
     - 위의 두 모델을 활용하여 민원 질문 프롬프트를 작성하고, LangChain 라이브러리를 이용해 챗봇 응답 파이프라인을 구축
